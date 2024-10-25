@@ -1,0 +1,12 @@
+# Backend (Node.js, Express, MongoDB)
+
+## Dependencies
+* `express`
+* `mongodb`
+* `mongoose`
+
+## Code Snippets
+* [app.js](app.js)
+* [weather.js](weather.js)
+* [market.js](market.js)
+* [models/Farmer.js](models/Farmer.js)
